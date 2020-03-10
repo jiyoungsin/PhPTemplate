@@ -1,0 +1,13 @@
+{
+    "require": {
+        "illuminate/database": "^7.0",
+        "illuminate/events": "^7.0",
+        "illuminate/view": "^7.0",
+        "vlucas/phpdotenv": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\":"App/"
+        }
+    }
+}

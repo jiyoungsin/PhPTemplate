@@ -1,0 +1,1 @@
+<p>header</p><?php /**PATH /Users/paulsin/Desktop/PHP/App/Views/layouts/header.blade.php ENDPATH**/ ?>
